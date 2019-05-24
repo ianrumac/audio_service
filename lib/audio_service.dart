@@ -36,6 +36,7 @@ enum BasicPlaybackState {
   stopped,
   paused,
   playing,
+  completed,
   fastForwarding,
   rewinding,
   buffering,
